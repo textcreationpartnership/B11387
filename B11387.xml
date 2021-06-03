@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here foloweth a lytell treatyse of the beaute of women newly translated out of Frenshe in to Englishe</title>
+            <title>Beauty of women.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11387</idno><idno type="EEBO-CITATION">99840285_4770</idno>
+  <idno type="VID">4770</idno>
+  <idno type="EEBO-PROQUEST">2264182755</idno>
+  <idno type="STC">STC 1696</idno>
+  <idno type="STC">ESTC S104550</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840285e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 148:14, 874:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here foloweth a lytell treatyse of the beaute of women newly translated out of Frenshe in to Englishe</title>
+                  <title>Beauty of women.</title>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by Rycharde Fawkes dwellyng in duram rent,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[ca. 1525]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>French original not traced.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name and address from colophon; publication date estimated by STC.</note>
+                  <note>Signatures: [A]⁴ (-A1).</note>
+                  <note>Identified as STC 24220 on UMI microfilm reel 148.</note>
+                  <note>Reproductions of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 148 and at reel 874 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  Poetry.</term>
+               <term type="topical_term">Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4770:1"/>
+            <pb facs="tcp:4770:1"/>
+            <p>¶ Here foloweth a lytell treatyse of the Beaute of women newly translated out of Frenshe in to Englyshe.</p>
+            <p>
+               <figure>
+                  <figDesc>a nude woman plays a stringed instrument while a man dressed as a jester watches her</figDesc>
+                  <head>PECCATI · FORMA · FEMINA · EST · ET HORTIS · CONDICIO</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:4770:2"/>
+            <l>THe sōne of the mayde whome neuer none resembled</l>
+            <l>In beaulte nor bounte syth the worlde began</l>
+            <l>For both in hyr were perfaytely assembled</l>
+            <l>Named is she Marye doughter to saynt Anne</l>
+            <l>Guyde myne hande so that the gentylman</l>
+            <l>That me desyred to reduce thys boke</l>
+            <l>From frenshe to englyshe / be content / and than</l>
+            <l>I take lytell cure what other there on loke.</l>
+            <l>¶ In frenshe (la beaute de femmes) is yt named</l>
+            <l>The beaulte of women / in our Englyshe languag</l>
+            <l>wherof to treate / I ought well to be blamed</l>
+            <l>Consydered that I had neuer the vsage</l>
+            <l>womens beaulte in body nor vysage</l>
+            <l>For to regarde / and there vpon good reason</l>
+            <l>Syth I am made (as an vnpleasant page)</l>
+            <l>A cast a way from presence at eche season</l>
+            <l>¶ But what therof shall I leue of to wryte</l>
+            <l>Syth no man hauyng more practyse then I</l>
+            <l>wyll take the payne to set blacke on the whyte</l>
+            <l>And yt a thynge so dygne of memory</l>
+            <l>Nay trust me playne I shall my selffe applye</l>
+            <l>Of the frenshe boke to folow the sentence</l>
+            <l>Beaulte (as ryght requireth) to gloryfye</l>
+            <l>what euer foloweth of the consequence</l>
+            <l>¶ what caused the wourthy Troylus of Troye</l>
+            <l>To cast hys loue on Cresyde the shene</l>
+            <l>why set Parys on fayre Helayne hys ioye</l>
+            <l>what caused Achylles to loue Polexene</l>
+            <l>why loued Trystram la belle Koude the quene</l>
+            <l>Or Arthur of bretayne the fayre Florence</l>
+            <l>All cam of theyr beaulte and theyr plesant eyen</l>
+            <l>what haue I to do as of the consequence.</l>
+            <pb facs="tcp:4770:2"/>
+            <l>¶ Beaulte as for the fyrste require wolde</l>
+            <l>That the womam (how euer stande the case)</l>
+            <l>Symple manyer and countenaunce sholde holde</l>
+            <l>For otherwyse she wyll avoyde the place</l>
+            <l>¶ womans beaulte eche person reproueth</l>
+            <l>yf so be that she bayre the countenaunce</l>
+            <l>More eleuate or hygh than yt behoueth</l>
+            <l>Hyr beaulte tourneth but all to dysplesance</l>
+            <l>¶ Beaulte requireth as for the seconde parte</l>
+            <l>That woman bayre euer naturally</l>
+            <l>Symple regade and not ouerthwarte</l>
+            <l>wyth playsante and symple castyng of the eye</l>
+            <l>¶ Beaulte is lost in woman oultrely</l>
+            <l>yf she haue thys of very condycyon</l>
+            <l>As to regarde or loke dyspyteously</l>
+            <l>For that is the manner of the lyon</l>
+            <l>¶ womans beaulte requireth thyrdely</l>
+            <l>That stedfastly with out oultrage</l>
+            <l>She kepe as dyscrete cōtynually</l>
+            <l>Symple answer euer in her language</l>
+            <l>¶ womans beaulte that sholde be magnyfyed</l>
+            <l>Lyetly compassed in these thre poyntes onely</l>
+            <l>what beaulte so euer is to her applyed</l>
+            <l>The woman ought to lede hyr lyffe symply</l>
+            <l>¶ Beaulte of suerty doeth that woman folowe</l>
+            <l>That hath the browes and raynes of the backe</l>
+            <l>And there withall the fete lyght and holowe</l>
+            <l>yf these thre be holowe there is no lacke.</l>
+            <l>¶ Beaulte in woman is nothyng pleasant</l>
+            <l>That glometh with her eyen with frowarde chere</l>
+            <l>And is of hyr raynes so heuy and pesant</l>
+            <l>And of hyr fete as yf a beest yt were</l>
+            <pb facs="tcp:4770:3"/>
+            <l>¶ womans beaulte shall ye fynde doubtlesse</l>
+            <l>In thre hygh poyntes that on hyr body gent</l>
+            <l>Ought for to be / &amp; them I shall expresse</l>
+            <l>Here after / yf my remembraunce assent</l>
+            <l>¶ Beaulte sayeth / the fyrst poynt to knowe</l>
+            <l>The woman sholde haue the forhed hygh &amp; fayre</l>
+            <l>For whan she hath the forhed ouer lowe</l>
+            <l>Euyll hyr besemeth a frontelet to bayre</l>
+            <l>¶ womans beaulte requyreth secondly</l>
+            <l>Of beaulte a ryght who that enquire wolde</l>
+            <l>That woman ought to haue the hed hygh</l>
+            <l>The better therwyth hyr hat she doeth vpholde</l>
+            <l>¶ Beaulte in woman playnly doeth habounde</l>
+            <l>yf she ne fayle as for the thyrde parte</l>
+            <l>To haue the brestes hygh fayre and rounde</l>
+            <l>wyth fyne gorgias well and fayre couert</l>
+            <l>¶ womans beaulte as in preemynence</l>
+            <l>Requireth these thre poyntes pryncypall</l>
+            <l>For to be founde vpon hyr corpulence</l>
+            <l>And well on hyght they ought for to be all</l>
+            <l>¶ womans beaulte expresly for to showe</l>
+            <l>As to the regarde of hyr countenaunce</l>
+            <l>Requireth ouer thys to haue thre poyntes lowe</l>
+            <l>whych all women ought to haue in remembraunce</l>
+            <l>¶ womans beaulte that pourchase wyll praysyng</l>
+            <l>woll that the woman set her besy cure</l>
+            <l>To maynteyne in hyr selfe a low laughyng</l>
+            <l>To laugh ouer hygh besemeth no creature</l>
+            <l>¶ Beaulte yet cōmaundeth afterwarde</l>
+            <l>Vnto all women thys poynt secondely</l>
+            <l>To haue alwayes a lowely regarde</l>
+            <l>Not ouer moche but moderately</l>
+            <pb facs="tcp:4770:3"/>
+            <l>¶ That woman hath the bent of beaultyes bowe</l>
+            <l>That can regarde in helth and in dysease</l>
+            <l>whan she shall neese to make the sounde but lowe</l>
+            <l>To do otherwyse yt may no person please</l>
+            <l>¶ womans beaulte wyll in conclusyon</l>
+            <l>Of these lowe poyntes without desloyaulte</l>
+            <l>That women bere euer a lowly condycyon</l>
+            <l>For otherwyse she leseth her beaulte.</l>
+            <l>¶ Beaulte demaundeth these poyntes to haue sene</l>
+            <l>In women that be fayre and fayte at all</l>
+            <l>To haue trayteys the browes / and traytys eyen</l>
+            <l>And lytell the handes / traytys slendre and small</l>
+            <l>¶ Beaulte hath she that hath the chyn dympled</l>
+            <l>The ioyntes of the handes sholde be in lyke manere</l>
+            <l>The chekes also be they bare or wympled</l>
+            <l>Especyally whan she smyleth with hyr chere.</l>
+            <l>¶ Beaulte requireth large to haue these thre</l>
+            <l>The fyrste is the space goyng from eye to eye</l>
+            <l>Betwyxt the sholdres sholde the seconde be</l>
+            <l>The thyrde betwyxt the raynes ye shall espye.</l>
+            <l>¶ Perfayt beaulte ye may well determyne</l>
+            <l>In woman / so that these thre in hyr repayre</l>
+            <l>The nayles and the lyppes cōplexyon sanguyne</l>
+            <l>And ruddy the chekes well vermayled and fayre</l>
+            <l>¶ womans beaulte thou doest well expose</l>
+            <l>Or mayst expose wythout taryeng</l>
+            <l>yf thou retayne in thy mynde close</l>
+            <l>All that is set before in this wrytyng.</l>
+            <l>¶ Of beaulte yf there be any woman</l>
+            <l>More purely sped than is cōprysed in this</l>
+            <l>was neuer woman syth the worlde began</l>
+            <l>So perfaytly sped of beaulte as she is</l>
+            <pb facs="tcp:4770:4"/>
+            <l>¶ I haue expressed theyr preemynence</l>
+            <l>As well of theyr bodyes as of theyr mayntyen</l>
+            <l>But speke what ye wyll apert or in scylence</l>
+            <l>Beaulte sans bonte ne vault rien.</l>
+            <l>¶ Beaultyes there be in women infynyte</l>
+            <l>But of bontyes there is but lytell speche</l>
+            <l>Beaulte is them geuen as thyng requisyte</l>
+            <l>who wyll haue bonte let hym go seche</l>
+            <l>Thys not wythstandyng I coulde a man teche</l>
+            <l>To fynde ryght good of the gendre feminyn</l>
+            <l>And fayre also / but what euer we preche</l>
+            <l>Beaulte sans bonte ne vault rien.</l>
+            <l>¶ Beaulte ennobleth the person doubtlesse</l>
+            <l>And playnly she is of the more valeure</l>
+            <l>But wyth beaulte is requisyte goodnesse</l>
+            <l>To speke a ryght who so wyll sett hys cure</l>
+            <l>Bonte wyll not be vnder coverture</l>
+            <l>where euer she be / hyr purere is so fyne</l>
+            <l>wherfore I set agayne in thys scrypture</l>
+            <l>Beaulte sans bonte ne vault rien.</l>
+            <l>¶ Mayde / wyfe / or wydowe / dame / or damoysell</l>
+            <l>That haue the raye of beaulte comprysed in your face</l>
+            <l>Adiouste therto bonte / than shall ye do ryght well</l>
+            <l>For beaulte with bonte assembled in a place</l>
+            <l>Gyue demonstrance of an especyall grace</l>
+            <l>Geuen to the person / &amp; as I take the cause</l>
+            <l>At syse smyleth bonte / where beaulte laugheth at ace</l>
+            <l>As dayly yt is sene / and there a fynall clause.</l>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <l>¶ Thus endeth the Beaulte of women neuly Imprynted</l>
+            <l>By Rycharde Fawkes dwellyng in duram rent</l>
+            <pb facs="tcp:4770:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
